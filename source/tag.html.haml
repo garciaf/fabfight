@@ -3,7 +3,7 @@ pageable: true
 per_page: 6
 ---
 
-%header.main-header.tag-head{cover}
+%header.main-header.tag-head{cover(page_articles.last)}
   %nav.main-nav.overlay.clearfix
     - if blog_settings.logo.present?
       %a.blog-logo{href: home_path}
