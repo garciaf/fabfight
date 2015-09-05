@@ -1,14 +1,21 @@
 = wrap_layout :layout do
-  %header.main-header.post-head{cover}
-    %nav.main-nav.clearfix{class: cover? ? 'overlay' : nil}
+  %header.main-header{cover}
+    %nav.main-nav.overlay.clearfix
       - if blog_settings.logo.present?
-        %a.blog-logo{href: home_path}
+        %a.blog-logo
           = image_tag blog_settings.logo, alt: blog_settings.name
       - if blog_settings.navigation
         %a.menu-button.icon-menu{href: '#'}
           %span.word Menu
+    .vertical
+      .main-header-content.inner
+        %h1.page-title
+          %a{href: home_path }= blog_settings.name
+        %h2.page-description= blog_settings.description
+    %a.scroll-down.icon-arrow-left{href: '#content', data: {offset: '-45'}}
+      %span.hidden Scroll Down
 
-  %main.content{role: :main}
+  %main#content.content{role: :main}
     %article.post
       %header.post-header
         %h1.post-title= current_article.title
@@ -19,7 +26,7 @@
             on #{tags}
 
       %section.post-content= yield
-
+      %section.post-comment= partial(:comments)
       %footer.post-footer
         - if gravatar?
           %figure.author-image
@@ -53,7 +60,7 @@
             %span.hidden Facebook
           %a.icon-google-plus{href: google_plus_url, onclick: "window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;"}
             %span.hidden Google+
-
+  
   %aside.read-next
     - if prev_article = current_article.previous_article
       - attributes = { href: prev_article.url }.merge(cover(prev_article))

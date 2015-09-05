@@ -73,7 +73,11 @@ module MiddlemanCasperHelpers
   def current_article_url
     URI.join(blog_settings.url, current_article.url)
   end
-
+  def image_cover(page = current_page)
+    if (src = page.data.cover).present?
+      image_tag src, resize_to: '700x'
+    end
+  end
   def cover_url(page = current_page)
     if (src = page.data.cover).present?
       URI.join(blog_settings.url, image_path(src)) 
