@@ -8,5 +8,10 @@
       - css_class << "nav-current" if current_page.url == href
       %li{class: css_class.join(' '), role: :presentation}
         %a{href: href}= label
+
+    - css_class = "nav-current" if(current_page.url == author_path)
+    %li{class: css_class, role: :presentation}
+      %a{href: author_path} About
+    
   %a.subscribe-button.icon-feed{href: feed_path} Subscribe
 %span.nav-cover

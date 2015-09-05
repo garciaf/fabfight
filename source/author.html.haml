@@ -24,6 +24,9 @@ cover: fabien-adrien.jpg
   .author-meta
     - if blog_author.location.present?
       %span.author-location.icon-location= blog_author.location
+    - if blog_author.gravatar_email.present?
+      %span.author-email.icon-email
+        %a{href: "mailto:#{blog_author.gravatar_email}"}= blog_author.gravatar_email
     - if blog_author.website.present?
       %span.author-link.icon-link
         %a{href: blog_author.website}= blog_author.website
