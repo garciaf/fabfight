@@ -5,8 +5,8 @@ tags: fight, fr, en
 cover: fabien-grap.jpg
 ---
 
-Il n'y a pas que le MMA dans la vie, il y a aussi le Grappling. 
-Présentation de mon combat lors de la soirée randoru fight night. 
+Grappling fight during the randori fight night in Berlin the 30 may 2015
+
 READMORE
 
 <iframe src="https://www.youtube.com/embed/OXpGvIom6Nc" frameborder="0" allowfullscreen></iframe>
