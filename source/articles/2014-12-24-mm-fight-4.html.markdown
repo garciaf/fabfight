@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: fr
+lang: en
 title: My fourth MMA fight
 date: 2014-12-24 20:57 UTC
 tags: fight, fr, en

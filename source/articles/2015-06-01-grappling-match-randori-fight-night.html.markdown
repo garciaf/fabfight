@@ -1,4 +1,5 @@
 ---
+lang: en
 title: Grappling match Randori Fight Night 
 date: 2015-06-01 00:00 UTC
 tags: fight, fr, en

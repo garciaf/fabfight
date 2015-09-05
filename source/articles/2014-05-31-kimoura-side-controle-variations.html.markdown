@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: Kimoura side controle variations
 date: 2014-05-31 00:00 UTC
 tags: fr, technique, grappling

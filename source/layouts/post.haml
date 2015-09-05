@@ -18,7 +18,10 @@
   %main#content.content{role: :main}
     %article.post
       %header.post-header
-        %h1.post-title= current_article.title
+        %h1.post-title
+          = current_article.title
+          .phoca-flagbox
+            %span.phoca-flag{class: current_article.lang}
         %section.post-meta
           %time.post-date{datetime: current_article.date.strftime('%Y-%m-%d')}
             = current_article.date.strftime(blog_settings.date_format)

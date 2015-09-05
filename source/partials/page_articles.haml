@@ -4,7 +4,10 @@
 - page_articles.each do |article|
   %article.post
     %header.post-header
-      %h2.post-title= link_to article.title, article
+      %h2.post-title
+        = link_to article.title, article
+        .phoca-flagbox
+          %span.phoca-flag{class: article.lang}
     - if cover?(article)
       %section.post-content
         %p
