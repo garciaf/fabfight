@@ -1,0 +1,14 @@
+---
+layout: post
+lang: fr
+title: My third MMA fight
+date: 2014-10-31 13:51 UTC
+tags: fight, en, fr
+cover: fabien-martin.jpg
+---
+
+My third amateur MMA fight during the MMA Berlin tournament #39
+
+READMORE
+
+<iframe src="//www.youtube.com/embed/juKRrCvrcpM" frameborder="0" allowfullscreen></iframe>
