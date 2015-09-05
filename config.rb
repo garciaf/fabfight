@@ -44,7 +44,7 @@ set :casper, {
     bio: 'Fighter and cook by night, dev by day', # Optional
     location: 'Berlin', # Optional
     website: nil, # Optional
-    gravatar_email: 'fab0670312047@gmail.com' # Optional
+    gravatar_email: 'fabien@fabfight.com' # Optional
   },
   navigation: {
     "Home" => "/",
