@@ -50,7 +50,7 @@ set :casper, {
     "Home" => "/",
     "The French Cook" => "http://the-french-cook.com",
     "Fabphoto" => "http://fabphoto.fr",
-    "Fabbook" => "https://fabbook.fr"
+    "Fabbook" => "http://fabbook.fr"
   }
 }
 
