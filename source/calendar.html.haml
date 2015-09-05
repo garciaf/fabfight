@@ -1,0 +1,29 @@
+---
+pageable: true
+per_page: 6
+---
+
+%header.main-header.tag-head{cover(page_articles.first)}
+  %nav.main-nav.overlay.clearfix
+    - if blog_settings.logo.present?
+      %a.blog-logo{href: home_path}
+        = image_tag blog_settings.logo, alt: blog_settings.name
+    - if blog_settings.navigation
+      %a.menu-button.icon-menu{href: '#'}
+        %span.word Menu
+  .vertical
+    .main-header-content.inner
+      %h1.page-title
+        Archive for
+        - case page_type
+        - when 'day'
+          = Date.new(year, month, day).strftime('%b %e %Y')
+        - when 'month'
+          = Date.new(year, month, 1).strftime('%b %Y') 
+        - when 'year'
+          = year
+      %h2.page-description #{page_articles.count} recipe
+
+%main#content.content{role: :main}
+  = partial(:page_articles,
+            locals: { page_articles: page_articles, paginate: paginate })

@@ -16,13 +16,13 @@ activate :blog do |blog|
   blog.layout = "post"
   blog.summary_separator = /READMORE/
   # blog.summary_length = 250
-  # blog.year_link = "{year}.html"
-  # blog.month_link = "{year}/{month}.html"
-  # blog.day_link = "{year}/{month}/{day}.html"
+  blog.year_link = "{year}.html"
+  blog.month_link = "{year}/{month}.html"
+  blog.day_link = "{year}/{month}/{day}.html"
   # blog.default_extension = ".markdown"
 
   blog.tag_template = "tag.html"
-  # blog.calendar_template = "calendar.html"
+  blog.calendar_template = "calendar.html"
 
   # Enable pagination
   blog.paginate = true
