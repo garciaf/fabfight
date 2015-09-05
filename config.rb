@@ -98,6 +98,17 @@ set :images_dir, 'images'
 
 set :partials_dir, 'partials'
 
+config = YAML.load_file("parameter.yml")
+activate :deploy do |deploy|
+  deploy.method = :ftp
+  deploy.host = config['deploy']['host']
+  deploy.user = config['deploy']['user']
+  deploy.password = config['deploy']['password']
+  deploy.path = config['deploy']['path']
+  deploy.build_before = true # default: false
+end
+
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
