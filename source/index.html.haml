@@ -14,7 +14,9 @@ cover: cover.jpg
         %span.word Menu
   .vertical
     .main-header-content.inner
-      %h1.page-title= blog_settings.name
+      %a.blog-logo{href: home_path}
+      %h1.page-title
+        %a{href: home_path}= blog_settings.name
       %h2.page-description= blog_settings.description
   %a.scroll-down.icon-arrow-left{href: '#content', data: {offset: '-45'}}
     %span.hidden Scroll Down
