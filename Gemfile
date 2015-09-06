@@ -17,5 +17,7 @@ gem 'sanitize', '~> 3.0.0'
 
 # For Image resize
 gem 'middleman-simple-thumbnailer'
+gem 'middleman-imageoptim'
+
 gem 'middleman-minify-html'
 gem 'middleman-deploy'
