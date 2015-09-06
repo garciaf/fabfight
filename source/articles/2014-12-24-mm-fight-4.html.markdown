@@ -3,7 +3,7 @@ layout: post
 lang: en
 title: My fourth MMA fight
 date: 2014-12-24 20:57 UTC
-tags: fight, fr, en
+tags: fight, fr, mma, en
 cover: fabien-adrien.jpg
 ---
 My fourth amateur MMA fight during the MMA Berlin tournament #40

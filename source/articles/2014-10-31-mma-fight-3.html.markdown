@@ -3,7 +3,7 @@ layout: post
 lang: en
 title: My third MMA fight
 date: 2014-10-31 13:51 UTC
-tags: fight, en, fr
+tags: fight, en, mma, fr
 cover: fabien-martin.jpg
 ---
 
