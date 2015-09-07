@@ -15,5 +15,5 @@ READMORE
 
 <iframe frameborder="0" src="//www.dailymotion.com/embed/video/xynwkd" allowfullscreen></iframe>
 
-Bonus, the trash talk of this time was really hillarious: 
+Bonus, the trash talk of this time was really hilarious: 
 <iframe src="https://www.youtube.com/embed/j8CTobooiwA" frameborder="0" allowfullscreen></iframe>

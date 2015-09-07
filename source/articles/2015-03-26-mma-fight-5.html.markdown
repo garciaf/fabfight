@@ -1,0 +1,13 @@
+---
+lang: en
+title: MMA Fight 5
+date: 2015-03-26 00:00 UTC
+tags: fight, mma, en
+cover: fabien-fabian.jpg
+---
+
+My fifth amateur MMA fight during the MMA Berlin tournament #41, and this time I learned my lesson 
+
+READMORE
+
+<iframe src="https://www.youtube.com/embed/yaGJVupfOfE" frameborder="0" allowfullscreen></iframe>
