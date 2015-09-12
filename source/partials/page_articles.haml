@@ -6,8 +6,7 @@
     %header.post-header
       %h2.post-title
         = link_to article.title, article
-        .phoca-flagbox
-          %span.phoca-flag{class: article.lang}
+        
     - if cover?(article)
       %section.post-content
         %p
@@ -25,5 +24,9 @@
         on #{tags(article)}
       %time.post-date{datetime: article.date.strftime('%Y-%m-%d')}
         = article.date.strftime(blog_settings.date_format)
+      .post-translation
+        .phoca-flagbox
+          = link_to article do 
+            %span.phoca-flag{class: article.lang}
 
 = partial(:pagination) if paginate

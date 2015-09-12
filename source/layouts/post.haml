@@ -20,13 +20,14 @@
       %header.post-header
         %h1.post-title
           = current_article.title
-          .phoca-flagbox
-            %span.phoca-flag{class: current_article.lang}
         %section.post-meta
           %time.post-date{datetime: current_article.date.strftime('%Y-%m-%d')}
             = current_article.date.strftime(blog_settings.date_format)
           - if tags?
             on #{tags}
+          .post-translation
+            .phoca-flagbox
+              %span.phoca-flag{class: current_article.lang}
 
       %section.post-content= yield
       %section.post-comment= partial(:comments)
