@@ -91,12 +91,22 @@ set :images_dir, 'images'
 set :partials_dir, 'partials'
 
 config = YAML.load_file("parameter.yml")
+config.map do |key, value|
+  if ENV[key.to_s]
+    value = ENV[key]
+  end
+  config[key] = value
+end
+
+###
+# Helpers
+###
 activate :deploy do |deploy|
   deploy.method = :ftp
-  deploy.host = config['deploy']['host']
-  deploy.user = config['deploy']['user']
-  deploy.password = config['deploy']['password']
-  deploy.path = config['deploy']['path']
+  deploy.host = config['FTP_HOST']
+  deploy.user = config['FTP_USER']
+  deploy.password = config['FTP_PASSWORD']
+  deploy.path = config['path']
   deploy.build_before = true # default: false
 end
 

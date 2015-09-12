@@ -1,0 +1,4 @@
+FTP_USER: <%= ENV['FTP_USER'] %>
+FTP_PASSWORD: <%= ENV['FTP_PASSWORD'] %>
+FTP_HOST: <%= ENV['FTP_HOST'] %>
+path: /www
