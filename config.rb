@@ -90,13 +90,7 @@ set :images_dir, 'images'
 
 set :partials_dir, 'partials'
 
-config = YAML.load_file("parameter.yml")
-config.map do |key, value|
-  if ENV[key.to_s]
-    value = ENV[key]
-  end
-  config[key] = value
-end
+config = YAML.load ERB.new(File.read('parameter.codeship.yml')).result(binding)
 
 ###
 # Helpers
