@@ -90,7 +90,7 @@ set :images_dir, 'images'
 
 set :partials_dir, 'partials'
 
-config = YAML.load ERB.new(File.read('parameter.codeship.yml')).result(binding)
+config = YAML.load ERB.new(File.read('parameter.yml')).result(binding)
 
 ###
 # Helpers
