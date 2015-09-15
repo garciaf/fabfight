@@ -67,7 +67,7 @@ ready do
     end
   end
 
-  proxy "/author/#{blog_author.name.parameterize}.html", '/author.html', ignore: true
+  proxy "/author/#{blog_author.name.parameterize}.html", '/author.html', ignore: false
 end
 
 
