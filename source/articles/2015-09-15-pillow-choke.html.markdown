@@ -2,7 +2,7 @@
 lang: en
 title: Pillow Choke (aka Z-Chocke)
 date: 2015-09-15 09:47 UTC
-tags: en, technique
+tags: en, technique, technique
 cover: grappling.jpg
 ---
 
