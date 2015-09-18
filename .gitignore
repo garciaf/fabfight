@@ -10,7 +10,7 @@
 # Ignore the build directory
 /build
 /tmp
-parameter.yml
+.envrc
 # Ignore cache
 /.sass-cache
 /.cache
