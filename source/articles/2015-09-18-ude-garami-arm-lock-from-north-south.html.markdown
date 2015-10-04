@@ -9,4 +9,6 @@ A interresting attack from the north south position
 
 READMORE
 
-<iframe src="https://www.youtube.com/embed/aX8uDdHAxMA" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="https://www.youtube.com/embed/aX8uDdHAxMA" frameborder="0" allowfullscreen></iframe>
+</div>

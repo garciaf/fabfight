@@ -14,25 +14,33 @@ READMORE
 
 This attack is really usefull if an oponent defend his arms
 
-<iframe src="https://www.youtube.com/embed/RkFHJHC58qc" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="https://www.youtube.com/embed/RkFHJHC58qc" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Kimoura
 
 Kimoura from the north south position is also really interesting and effective technique
 
-<iframe src="https://www.youtube.com/embed/yGwtq9wh-Yc" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="https://www.youtube.com/embed/yGwtq9wh-Yc" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Triangle
 
 On the top, the kimoura allow you to setup a really nice inverted triangle.
 
-<iframe src="https://www.youtube.com/embed/vsRc7FIXC2c" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="https://www.youtube.com/embed/vsRc7FIXC2c" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Ude Garami
 
 The last, little bit more fancy allow you go in complete direction
 
-<iframe src="https://www.youtube.com/embed/aX8uDdHAxMA" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="https://www.youtube.com/embed/aX8uDdHAxMA" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## So...
 What do you think about north-south position for grappling? Do you know other variation or other flow, let me know in the comment bellow

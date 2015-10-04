@@ -10,4 +10,5 @@ Thanks to [Wolf](http://mma-berlin.de) who bring me and the team, coach us and p
 
 READMORE
 
-<iframe src="https://www.youtube.com/embed/4K3aqicRj1c" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+<iframe src="https://www.youtube.com/embed/4K3aqicRj1c" frameborder="0" allowfullscreen></iframe></div>

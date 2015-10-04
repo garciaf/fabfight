@@ -12,6 +12,8 @@ READMORE
 
 I watch this video each time I need to find motivation or after a lost. 
 
-<iframe src="https://www.youtube.com/embed/94MBVD_tZeU" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="https://www.youtube.com/embed/94MBVD_tZeU" frameborder="0" allowfullscreen></iframe>
+</div>
 
 What you think about this, let me know in comment

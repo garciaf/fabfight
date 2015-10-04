@@ -10,4 +10,5 @@ My fifth amateur MMA fight during the MMA Berlin tournament #41, and this time I
 
 READMORE
 
-<iframe src="https://www.youtube.com/embed/yaGJVupfOfE" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+<iframe src="https://www.youtube.com/embed/yaGJVupfOfE" frameborder="0" allowfullscreen></iframe></div>

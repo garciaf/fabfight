@@ -10,4 +10,5 @@ Grappling fight during the randori fight night in Berlin the 30 may 2015
 
 READMORE
 
-<iframe src="https://www.youtube.com/embed/OXpGvIom6Nc" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+<iframe src="https://www.youtube.com/embed/OXpGvIom6Nc" frameborder="0" allowfullscreen></iframe></div>

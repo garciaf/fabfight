@@ -10,4 +10,6 @@ Voilà une techique très pratique, pour garder une clef de bras en grappling, j
 
 READMORE
 
-<iframe src="https://www.youtube.com/embed/AnsservoOp8" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="https://www.youtube.com/embed/AnsservoOp8" frameborder="0" allowfullscreen></iframe>
+</div>

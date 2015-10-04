@@ -10,4 +10,6 @@ My fourth amateur MMA fight during the MMA Berlin tournament #40
 
 READMORE
 
+<div class="video">
 <iframe src="//www.youtube.com/embed/uvAPuL9XCX4" frameborder="0" allowfullscreen></iframe>
+</div>

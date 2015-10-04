@@ -10,4 +10,6 @@ Quelques variations autour de la kimoura en nord sud avec mon ami Christophe du 
 
 READMORE
 
-<iframe src="https://www.youtube.com/embed/yGwtq9wh-Yc" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="https://www.youtube.com/embed/yGwtq9wh-Yc" frameborder="0" allowfullscreen></iframe>
+</div>

@@ -11,4 +11,6 @@ My third amateur MMA fight during the MMA Berlin tournament #39
 
 READMORE
 
-<iframe src="//www.youtube.com/embed/juKRrCvrcpM" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="//www.youtube.com/embed/juKRrCvrcpM" frameborder="0" allowfullscreen></iframe>
+</div>

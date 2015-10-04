@@ -8,5 +8,7 @@ cover: ceintures.jpg
 ---
 Il faut bien commencer quelque part, voilà ma technique et celle de Bruno pour faire un noeud de ceinture: 
 
-<iframe  class="video" src="https://www.youtube.com/embed/CZyu7ss7Xcc" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe  class="video" src="https://www.youtube.com/embed/CZyu7ss7Xcc" frameborder="0" allowfullscreen></iframe>
+</div> 
 

@@ -12,5 +12,7 @@ READMORE
 
 Let's try this next training: 
 
-<iframe src="https://www.youtube.com/embed/nI93Lh8591Q" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="https://www.youtube.com/embed/nI93Lh8591Q" frameborder="0" allowfullscreen></iframe>
+</div>
 

@@ -10,4 +10,6 @@ I got the chance to have my friend Kant, performing a body lock escape. Really n
 
 READMORE
 
-<iframe src="https://www.youtube.com/embed/NZOLb9i6pUs" frameborder="0" allowfullscreen></iframe>
+<div class="video">
+    <iframe src="https://www.youtube.com/embed/NZOLb9i6pUs" frameborder="0" allowfullscreen></iframe>
+</div>
