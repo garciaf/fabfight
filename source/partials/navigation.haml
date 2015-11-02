@@ -2,6 +2,8 @@
   %h3.nav-title Menu
   %a.nav-close{href: '#'}
     %span.hidden Close
+  .search
+    %input.st-default-search-input{:type => "text"}/
   %ul
     - navigation.try(:each) do |label, href|
       - css_class = %W(nav-#{label.parameterize})
