@@ -3,6 +3,7 @@ title: North-South flow
 date: 2015-09-26 14:35 UTC
 tags: en, technique, grappling
 cover: north-south.jpg
+lang: en
 ---
 
 The north-south position is a really strong position in my opinion. 
