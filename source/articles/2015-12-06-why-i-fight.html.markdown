@@ -14,11 +14,11 @@ READMORE
 >> This is the only thing I learned (and will) all my life
 
 I've start going on the mats of Judo when I was seven, and I loose many times against many different people. But somehow I always went back to the mat.
-In this time during tournaments I was always under a huge amount of stress and eventually lose because of this. But more important this experience confronted me with feeling in relatively safe way. 
+In this time during tournaments I was always under a huge amount of stress and eventually lose because of this. But more important this experience confronted me with this feeling in relatively safe way. 
 
-Turn out one day I start to learn how to deal with a pressure of a fight and even enjoying this. This help me a lot outside the gym, during my studies and job. Indeed I noticed the stress of a test or job interview similar was really similar than going into a fight.
+Turn out one day I start to learn how to deal with a pressure of a fight and even enjoying this. This help me a lot outside the gym, during my studies and job. Indeed I noticed the stress of a test or job interview was really similar than going into a fight.
 
-Among many things martial art teach me how to be patient, for practical reason (you can wait the all day for one fight), or strategical reason (The right technique in the wrong time is the wrong technique). And be patient today could be really useful. 
+Among many things, martial art teach me how to be patient, for practical reason (you can wait the all day for one fight), or strategical reason (The right technique in the wrong time is the wrong technique). And be patient today could be really useful. 
 
 I also found an endless source of learning, and that's why I never get bored doing martial arts. There is always a position, a submission, a strike to learn or to try.
 
