@@ -37,7 +37,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     erubis (2.7.0)
-    eventmachine (1.0.8)
+    eventmachine (1.2.1)
     execjs (2.6.0)
     exifr (1.2.3.1)
     ffi (1.9.10)
@@ -194,4 +194,4 @@ DEPENDENCIES
   sanitize (~> 3.0.0)
 
 BUNDLED WITH
-   1.10.6
+   1.13.1
